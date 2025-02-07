@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Garcia</h1>
-<h3 align="center">Currently Learning Backend Development</h3>
+<h3 align="center">Back-end Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
